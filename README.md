@@ -1,2 +1,2 @@
 # sinquehacer
-caja de pendejaditas
+caja de chunches
